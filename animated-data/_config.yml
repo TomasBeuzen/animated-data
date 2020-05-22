@@ -1,0 +1,12 @@
+# Book settings
+title: 
+author: Tomas Beuzen
+logo: content/images/logo/logo.png
+
+latex:
+  latex_documents:
+    targetname: book.tex
+
+html:
+  home_page_in_navbar: true
+  navbar_number_sections: false
