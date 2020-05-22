@@ -5,5 +5,5 @@
 - file: content/about/contributing
 
 - header: Supervised Learning
-- file: content/supervised-learning-algorithms/overview-supervised-learning
-- file: content/supervised-learning-algorithms/k-nearest-neighbours
+- file: content/supervised-learning/overview-supervised-learning
+- file: content/supervised-learning/k-nearest-neighbours

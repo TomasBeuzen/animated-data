@@ -1,5 +1,0 @@
-k-Nearest Neighbours
-====================
-
-The goal of Animated Data Science is to provide simple, reproducible animations to help digest data science concepts. This online book is created using the open source [Jupyter Book project](https://jupyterbook.org/).
-
