@@ -4,7 +4,7 @@
   <img src="animated-data/content/images/logo/logo.png" width="250">
 </p>
 
-Animated Data is an online, interactive book of simple, reproducible animations to help explain data science concepts. You can view the book at `url-goes-here`.
+Animated Data is an online, interactive book of simple, reproducible animations to help explain data science concepts. You can view the book at http://www.tomasbeuzen.com/animated-data/.
 
 ## Building the Animated Data book
 
