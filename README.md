@@ -22,7 +22,7 @@ Contributions are welcome and greatly appreciated! If you're interested in contr
 
 ## Contributors
 
-All contributions are welcomed and recognized! You can see a list of current contributors in the [contributors tab](https://github.com/TomasBeuzen/animated-data/graphs/contributors).
+You can see a list of current contributors in the [contributors tab](https://github.com/TomasBeuzen/animated-data/graphs/contributors).
 
 ## Acknowledgements
 
